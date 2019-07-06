@@ -1,3 +1,7 @@
+Fork of react-native-video.
+
+The only difference is that these changes are applied https://github.com/react-native-community/react-native-video/pull/842
+
 ## react-native-video
 
 A `<Video>` component for react-native, as seen in
